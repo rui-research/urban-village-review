@@ -11,11 +11,11 @@
 Urban villages—informal settlements in rapidly growing cities—are vital for equitable urban policy and planning. As urbanization accelerates, new data, methods, and case studies continually advance urban village research. Building on our 2025 CEUS review (“Mapping Urban Villages in China: Progress and Challenges” [Link](https://doi.org/10.1016/j.compenvurbsys.2025.102282)/[arXiv](https://arxiv.org/abs/2503.14195)), this GitHub repository integrates recent peer-reviewed studies, datasets, and tools to maintain an updated, open-access knowledge base for urban village mapping in China.
 
 Designed to support researchers and policymakers, it aligns with UN Sustainable Development Goal 11 ("Make cities and human settlements inclusive, safe, resilient, and sustainable") by fostering data transparency and methodological innovation in urban analytics. Contributions are welcomed to ensure relevance in this evolving field.
-
-![image](https://github.com/user-attachments/assets/bb733c24-96d8-4a1b-bb41-63cf5ae86a49)
+![image](https://github.com/user-attachments/assets/02d160db-1c95-44b0-bace-5894fe19cf8d)
 
 ## 2️⃣ Study Areas
-![StudyArea_UV0307en](https://github.com/user-attachments/assets/c0532b96-5612-482a-b58f-239986318441)
+
+![StudyArea_UV0307en](https://github.com/user-attachments/assets/4ffee3b3-3c4b-4dce-94a8-03be8e357e96)
 (📍Updated on March 5, 2025)
 
 ## 3️⃣ Relevant Publications
