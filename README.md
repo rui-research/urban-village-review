@@ -21,7 +21,7 @@ Designed to support researchers and policymakers, it aligns with UN Sustainable 
 ## 3️⃣ Relevant Publications
 
   **This table is continuously updated...**
-  (📑Updated on March 5, 2025)
+  (📑Updated on September 2nd, 2025)
  
 <b><details><summary>🖱️Click to Expand/Collapse Literature Review Table</summary></b>
 <table>
@@ -35,6 +35,16 @@ Designed to support researchers and policymakers, it aligns with UN Sustainable 
     <th>Data</th>
     <th>Method (Classification/ Segmentation)</th>
     <th>Link</th>
+  </tr>
+   <tr>
+    <td>39</td>
+    <td>Mapping Urban Villages in Beijing–Tianjin–Hebei Core Cities Through a Dual-Stage Fusion of Individual Building Footprints and Glimmer Imagery</td>
+    <td>2025</td>
+    <td>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</td>
+    <td>Beijing, Tianjin, Shijiangzhuang</td>
+    <td>Individual building footprints (IBF) data, Sentinel-2 Satellite image, Nighttime light (NTL) data, Building Height, Urban Boundary</td>
+    <td>🟢Classification</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/11078146">Paper</a></td>
   </tr>
   <tr>
     <td>38</td>
